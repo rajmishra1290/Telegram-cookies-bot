@@ -16,7 +16,7 @@ const PORT = process.env.PORT || 4000;
 const RENDER_URL = 'https://testing-by-raj.onrender.com';
 
 // ========== TELEGRAM CONFIG ==========
-const MAIN_BOT_TOKEN = process.env.MAIN_BOT_TOKEN || '8605624664:AAEQecvO4Cy3Szm3L89hEUj8aAdV4pTED04';
+const MAIN_BOT_TOKEN = process.env.MAIN_BOT_TOKEN || '8938481529:AAHrrqtzC-j8SDdhyVPziJNAw8p4VXLVUZk';
 const NOTIFICATION_BOT_TOKEN = process.env.NOTIFICATION_BOT_TOKEN || '8520214483:AAGmrJ8jRTtHDkNRled-kCAEq_HVXSFslAA';
 const ADMIN_USERNAME = process.env.ADMIN_USERNAME || 'raj mishra bot01';
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'madhu 2003';
